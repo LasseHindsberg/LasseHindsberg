@@ -1,6 +1,5 @@
 ## Welcome to my profile!
 - I'm a front-end Web developer, based in Denmark.
-- I'm looking for a job near Copenhagen :) 
 <!--
 **LasseHindsberg/LasseHindsberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
