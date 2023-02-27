@@ -1,5 +1,12 @@
 ## Welcome to my profile!
-- I'm a front-end Web developer, based in Denmark.
+💻 - I'm a front-end Web developer, based in Denmark.
+
+📗 - Currently Studying Computer Science at Zealand Business College
+
+🧗‍♂️ - Always looking for new challenges, and ready for the next big adventure
+
+❤️ - Avid lover of React.js
+
 <!--
 **LasseHindsberg/LasseHindsberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
