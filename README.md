@@ -5,7 +5,7 @@
 
 🧗‍♂️ - Always looking for new challenges, and ready for the next big adventure
 
-❤️ - Avid lover of React.js
+❤️ - Avid lover of React.js And learning Vue.js 🦾
 
 <!--
 **LasseHindsberg/LasseHindsberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
